@@ -16,19 +16,27 @@ Evocative product descriptions from images.
 Catchy taglines highlighting product features and emotions.
 
 # 🛠️ Technologies Used
-Technology	Purpose
-Google Cloud Vertex AI	Generative AI modeling, prompt design
-Vertex AI Studio	Rapid prototyping of GenAI applications
-Cloud Run	Serverless deployment of the AI app
-Gemini API / SDK	Advanced LLM capabilities (text & multimodal)
-Python / Jupyter Notebook	Experimentation and fine-tuning
+Google Cloud Vertex AI	
+
+Vertex AI Studio
+
+Cloud Run
+
+Gemini API / SDK
+
+Python / Jupyter Notebook
 
 # 🧑‍💻 Key Features
 ✅ Prompt Engineering for high-quality, domain-specific outputs
+
 ✅ Image Analysis to inspire nature-focused product descriptions
+
 ✅ Tagline Generator leveraging context and emotional appeal
+
 ✅ Serverless Deployment with web-based interaction
+
 ✅ Multimodal Prompting including images, video, and text
+
 ✅ Contextual Memory & Embeddings for better continuity
 
 # 💡 Sample Outputs
